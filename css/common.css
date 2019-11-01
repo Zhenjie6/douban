@@ -1,1 +1,20 @@
+input{
+    border: none;
+    font-size: 13px;
+    padding: 0px;
+    outline: none;
+}
 
+input:focus{
+    border: none;
+}
+
+.btn{
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
